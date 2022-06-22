@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+html, body, #root {
+    height: 100%;
+}
+.nav-link {
+    font-size: 20px;
+}
+.nav-link:hover {
+    background-color: #f3f3f3;
+    cursor: pointer;
+}
+
+.center {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin: 35px 0 10px;
+}
+.big {
+    width: 100%;
+}
+.centrar {
+    margin: 48px auto;
+}
